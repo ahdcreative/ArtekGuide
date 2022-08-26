@@ -4,7 +4,7 @@ using Dalamud.IoC;
 using Dalamud.Plugin;
 using ArtekGuide.Base;
 
-internal class KikoPlugin : IDalamudPlugin
+internal class ArtekPlugin : IDalamudPlugin
 {
     /// <summary> 
     ///     The plugin name, fetched from PStrings.
@@ -14,7 +14,7 @@ internal class KikoPlugin : IDalamudPlugin
     /// <summary>
     ///     The plugin's main entry point.
     /// </summary>
-    public KikoPlugin([RequiredVersion("1.0")] DalamudPluginInterface pluginInterface)
+    public ArtekPlugin([RequiredVersion("1.0")] DalamudPluginInterface pluginInterface)
     {
         pluginInterface.Create<PluginService>();
         PluginService.Initialize();
