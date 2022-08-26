@@ -1,0 +1,8 @@
+﻿changes | resources:
+  - "src/Resources/**/*"
+
+changes | ci:
+  - ".github/workflows/**/*"
+
+changes | plugin:
+  - "src/**/*.cs"
