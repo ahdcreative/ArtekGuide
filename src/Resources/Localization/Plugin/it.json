@@ -1,42 +1,42 @@
 {
   "Types.Duty.Name.None": {
-    "message": "Unnamed Duty",
+    "message": "Duty Senza Nome",
     "description": "Duty..ctor"
   },
   "Types.Duty.Boss.Name.None": {
-    "message": "Unnamed Boss",
+    "message": "Boss Senza Nome",
     "description": "Boss..ctor"
   },
   "Types.Duty.Boss.Strategy.None": {
-    "message": "No strategy available for this boss.",
+    "message": "Nessuna strategia disponibile per questo boss.",
     "description": "Boss..ctor"
   },
   "WotsitIPC.OpenDutyFinder": {
-    "message": "Open Duty Finder",
+    "message": "Apri Duty Finder",
     "description": "WotsitIPCProvider.RegisterAll"
   },
   "WotsitIPC.OpenDutyEditor": {
-    "message": "Open Duty Editor",
+    "message": "Apri Editor Duty",
     "description": "WotsitIPCProvider.RegisterAll"
   },
   "Generics.Error": {
-    "message": "An error occured.",
+    "message": "Si è verificato un errore.",
     "description": "TStrings.get_Error"
   },
   "Generics.Support": {
-    "message": "Support",
+    "message": "Assistenza",
     "description": "TStrings.get_Support"
   },
   "Generics.OpenFile": {
-    "message": "Open File",
+    "message": "Apri File",
     "description": "TStrings.get_OpenFile"
   },
   "Generics.SaveFile": {
-    "message": "Save File",
+    "message": "Salva File",
     "description": "TStrings.get_SaveFile"
   },
   "Generics.Search": {
-    "message": "Search",
+    "message": "Cerca",
     "description": "TStrings.get_Search"
   },
   "Generics.Duty": {
@@ -48,35 +48,35 @@
     "description": "TStrings.get_InDuty"
   },
   "Generics.Mechanic": {
-    "message": "Mechanic",
+    "message": "Meccanica",
     "description": "TStrings.get_Mechanic"
   },
   "Generics.Description": {
-    "message": "Description",
+    "message": "Descrizione",
     "description": "TStrings.get_Description"
   },
   "Generics.Level": {
-    "message": "Level",
+    "message": "Livello",
     "description": "TStrings.get_Level"
   },
   "Generics.Type": {
-    "message": "Type",
+    "message": "Tipo",
     "description": "TStrings.get_Type"
   },
   "DutyEditor.Title": {
-    "message": "{0} - Duty Editor",
+    "message": "{0} - Editor Duty",
     "description": "TStrings.get_EditorTitle"
   },
   "Editor.Format": {
-    "message": "Format",
+    "message": "Formato",
     "description": "TStrings.get_EditorFormat"
   },
   "Editor.Clear": {
-    "message": "Clear",
+    "message": "Pulisci",
     "description": "TStrings.get_EditorClear"
   },
   "Editor.Preview": {
-    "message": "Preview",
+    "message": "Anteprima",
     "description": "TStrings.get_EditorPreview"
   },
   "Editor.Metadata": {
@@ -84,107 +84,107 @@
     "description": "TStrings.get_EditorMetadata"
   },
   "Editor.ContributingGuide": {
-    "message": "Contributing Guide",
+    "message": "Guida per contribuire",
     "description": "TStrings.get_EditorContributingGuide"
   },
   "Editor.Problems": {
-    "message": "Problems",
+    "message": "Problemi",
     "description": "TStrings.get_EditorProblems"
   },
   "Editor.Unsupported": {
-    "message": "Duty contains invalid IDs and/or is unsupported by this plugin version.",
+    "message": "Il Duty contiene ID non validi e/o non è supportato da questa versione del plugin.",
     "description": "TStrings.get_EditorProblemUnsupported"
   },
   "Editor.NoProblemsDetected": {
-    "message": "No problems detected.",
+    "message": "Nessun problema rilevato.",
     "description": "TStrings.get_EditorNoProblems"
   },
   "Editor.FileTooBig": {
-    "message": "Your file is too big to be loaded into the editor.",
+    "message": "Il tuo file è troppo grande per essere caricato nell'editor.",
     "description": "TStrings.get_EditorFileTooLarge"
   },
   "Editor.FileLoaded": {
-    "message": "Your file was successfully loaded.",
+    "message": "Il tuo file è stato caricato con successo!",
     "description": "TStrings.get_EditorFileSuccessfullyLoaded"
   },
   "Editor.FileSaved": {
-    "message": "Your file was successfully saved.",
+    "message": "File salvato.",
     "description": "TStrings.get_EditorFileSuccessfullySaved"
   },
   "Settings.Title": {
-    "message": "{0} - Settings",
+    "message": "{0} - impostazioni",
     "description": "TStrings.get_SettingsTitle"
   },
   "Settings.General": {
-    "message": "General",
+    "message": "Generale",
     "description": "TStrings.get_SettingsGeneral"
   },
   "Settings.AutoOpenInDuty": {
-    "message": "Auto Open In Duty",
+    "message": "Auto Apri In Duty",
     "description": "TStrings.get_SettingsAutoOpenInDuty"
   },
   "Settings.AutoOpenDuty.Tooltip": {
-    "message": "Open the duty guide when entering a duty.",
+    "message": "Aprire la guida quando si entra in un duty.",
     "description": "TStrings.get_SettingsAutoOpenInDutyTooltip"
   },
   "Settings.ShortMode": {
-    "message": "Short Mode",
+    "message": "Modalità Breve",
     "description": "TStrings.get_SettingsShortMode"
   },
   "Settings.ShortMode.Tooltip": {
-    "message": "Shorten strategies & descriptions if possible.",
+    "message": "Riduci le strategie e le descrizioni, se possibile.",
     "description": "TStrings.get_SettingsShortModeTooltip"
   },
   "Settings.ShowSupportButton": {
-    "message": "Show Support Button",
+    "message": "Mostra Pulsante Di Supporto",
     "description": "TStrings.get_SettingsShowSupportButton"
   },
   "Settings.ShowSupportButton.Tooltip": {
-    "message": "Show the support Artek Guide button",
+    "message": "Mostra il pulsante di supporto per Artek Guide",
     "description": "TStrings.get_SettingsShowSupportButtonTooltip"
   },
   "Settings.ResourcesAndLocalization": {
-    "message": "Resources & Localization",
+    "message": "Risorse E Localizzazione",
     "description": "TStrings.get_SettingsResourcesAndLocalization"
   },
   "Settings.ResourcesAndLocalization.Tooltip": {
-    "message": "Downloads the latest resources, localizations & guides.",
+    "message": "Scarica le ultime risorse, localizzazioni e guide.",
     "description": "TStrings.get_SettingsResourcesAndLocalizationDesc"
   },
   "Settings.UpdateResources": {
-    "message": "Update Resources",
+    "message": "Aggiorna Risorse",
     "description": "TStrings.get_SettingsUpdateResources"
   },
   "Settings.UpdateFailed": {
-    "message": "Update Failed",
+    "message": "Aggiornamento non riuscito",
     "description": "TStrings.get_SettingsUpdateFailed"
   },
   "Settings.LastUpdate": {
-    "message": "Last Update: {0}",
+    "message": "Ultimo aggiornamento: {0}",
     "description": "TStrings.SettingsLastUpdate"
   },
   "Settings.Mechanics": {
-    "message": "Mechanics",
+    "message": "Meccaniche",
     "description": "TStrings.get_SettingsMechanics"
   },
   "Settings.HideMechanic": {
-    "message": "Hide: {0}",
+    "message": "Nascondi: {0}",
     "description": "TStrings.SettingsHideMechanic"
   },
   "Settings.HideMechanicTooltip": {
-    "message": "Hide {0} from duty guides.",
+    "message": "Nascondi {0} dalle guide dei Duty.",
     "description": "TStrings.SettingsHideMechanicTooltip"
   },
   "Settings.Integrations": {
-    "message": "Integrations",
+    "message": "Integrazioni",
     "description": "TStrings.get_SettingsIntegrations"
   },
   "Settings.Integrations.Available": {
-    "message": "Available Integrations",
+    "message": "Integrazioni Disponibili",
     "description": "TStrings.get_SettingsAvailableIntegrations"
   },
   "Settings.Integrations.Tooltip": {
-    "message": "You can enable or disable integrations below, changes will take effect next plugin load if the integration plugin is present.",
+    "message": "È possibile abilitare o disabilitare le integrazioni qui sotto, le modifiche avranno effetto il prossimo caricamento del plugin se il plugin di integrazione è presente.",
     "description": "TStrings.get_SettingsIntegrationsDesc"
   },
   "DutyFinder.Title": {
@@ -192,11 +192,11 @@
     "description": "TStrings.get_DutyFinderTitle"
   },
   "DutyFinder.NoFiles": {
-    "message": "No duty files detected! Please try Settings -> Update Resources.",
+    "message": "Nessun file duty rilevato! Prova Impostazioni -> Aggiorna Risorse.",
     "description": "TStrings.get_DutyFinderContentNotFound"
   },
   "DutyInfo.Title": {
-    "message": "{0} - Duty Info",
+    "message": "{0} - Info Duty",
     "description": "TStrings.get_DutyInfoTitle"
   },
   "DutyInfo.NoDuty": {
