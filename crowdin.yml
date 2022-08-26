@@ -4,5 +4,7 @@ preserve_hierarchy: true
 files:
   - source: /src/Resources/Localization/Plugin/*_Localizable.json
     translation: /%original_path%/%two_letters_code%.json
-  - source: /src/Resources/Localization/Duty/
-    translation: /%original_path%/%two_letters_code%/%original_path%/%original_file_name%
+  - source: /src/Resources/Localization/Duty/en/A Realm Reborn/AllianceRaids
+    translation: Duty/A Realm Reborn/AllianceRaids/%original_file_name%
+  - source: src/Resources/Localization/Duty/en/A Realm Reborn/Dungeons/
+    translation: A Realm Reborn/Dungeons/%original_file_name%
