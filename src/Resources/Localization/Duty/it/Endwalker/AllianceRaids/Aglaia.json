@@ -9,7 +9,7 @@
     "Bosses": [
         {
             "Name": "Byregot",
-            "Strategy": "This fight consists of two separate, alternating phases. \n\nIn the first phase the arena has a square shape, and the boss will mostly do AoE type attacks. You cannot fall off during this phase. \n\nIn the second phase the arena transforms into a 3x5 grid of blocks without a fence, so players can fall off. Byregot will summon hammers at the sides of the arena in regular intervals which knock away the floor blocks by 1 tile after 15 seconds. This will always happen shortly before other mechanics go off. \nMake sure not to stand on a tile that will be knocked away, or else you will lose your footing and fall to your death.",
+            "Strategy": "Questo fight consiste in due fasi separate e alternative. \n\nNella prima fase l'arena ha una forma quadrata, e il boss farà principalmente attacchi di tipo AoE. Non puoi cadere in questa fase. \n\nNella seconda fase l'arena si trasforma in una griglia di blocchi 3x5 senza recinzione, così i giocatori possono cadere. Byregot convocerà martelli ai lati dell'arena in intervalli regolari che respingono i blocchi di pavimento di 1 piastrella dopo 15 secondi. Questo accadrà sempre poco prima che le altre meccaniche svaniscono. \nAssicurati di non stare su una piastrella che verrà buttata via, altrimenti perderai il terreno sotto ai piedi e morirai.",
             "KeyMechanics": [
                 {
                     "Name": "Byregot's Ward",
@@ -18,32 +18,32 @@
                 },
                 {
                     "Name": "Ordeal of Thunder",
-                    "Description": "Unavoidable raidwide damage.",
+                    "Description": "Danno AoE inevitabile.",
                     "Type": 4
                 },
                 {
                     "Name": "Byregot's Strike",
-                    "Description": "Knockback from a blue AoE.",
+                    "Description": "Knockback da una AoE di colore blu.",
                     "Type": 2
                 },
                 {
                     "Name": "Builder's Build",
-                    "Description": "Like Byregot's Strike, but with 4 cone-shaped AoEs that will go off from the middle of the blue area like a cross.",
+                    "Description": "Come Byregot's Strike ma con 4 AoE coniche che partiranno dal centro dell'area blu come una croce.",
                     "Type": 2
                 },
                 {
                     "Name": "Levinforge",
-                    "Description": "A purple hammer that creates a line AoE, and can be pushed around together with the floor, when it's knocked by a hammer.\nPlayers must predict the movement of the purple hammer while making sure not to have the ground fall beneath their feet.",
+                    "Description": "Un martello viola che crea una linea AoE, e può essere spinto via assieme al pavimento, quando è colpito da un martello.\nI giocatori devono prevedere il movimento del martello viola pur facendo in modo di avere ancora il terreno sotto i loro piedi.",
                     "Type": 2
                 },
                 {
-                    "Name": "Byregot's Spire",
-                    "Description": "The boss will jump to one side and start casting a wide line AoE in the center 3 columns.\nHammers will knock around the floor just before the cast goes off.\nPlayers must predict where the blocks will be knocked, and run to a block that is knocked out of Byregot's AoE.",
+                    "Name": "Byregot's Strike",
+                    "Description": "Il boss salterà su di un lato dell'arena e comincerà il cast di una AoE lineare al centro delle 3 colonne.\nI martelli cominceranno a far sparire i blocchi di pavimento prima della fine del cast.\nI giocatori dovranno prevedere quali blocchi saranno tolti in modo da assicurarsi di essere al di fuori della portata della AoE.",
                     "Type": 10
                 },
                 {
                     "Name": "Reproduce",
-                    "Description": "5 clones of the boss appear at one side of the arena, casting Cloud to Ground, a circle AoE that will travel to the opposite side.\nThe AoEs from clones with lightning around them travel faster.",
+                    "Description": "5 cloni del boss appariranno ai lati dell'arena e daranno inizio al cast di Cloud to Ground, una AoE circolare che andrà al lato opposto.\nLe AoE fatte dai cloni con attorno un fulmine, viaggeranno più velocemente.",
                     "Type": 2
                 }
             ]
