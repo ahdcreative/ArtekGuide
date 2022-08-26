@@ -4,4 +4,4 @@ files:
   - source: /src/Resources/Localization/Plugin/*_Localizable.json
     translation: /%original_path%/%two_letters_code%.json
   - source: /src/Resources/Localization/Duty/
-    translation: /%two_letters_code%/%original_path%/%original_file_name%.json
+    translation: /%original_path%/%two_letters_code%/%original_path%/%original_file_name%
