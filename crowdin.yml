@@ -5,8 +5,10 @@ files:
   - source: /src/Resources/Localization/Plugin/*_Localizable.json
     translation: /%original_path%/%two_letters_code%.json
   - source: /src/Resources/Localization/Duty/en/A Realm Reborn/AllianceRaids
-    translation: Duty/A Realm Reborn/AllianceRaids/%original_file_name%
+    translation: /src/Resources/Localization/Duty/%two_letters_code%/A Realm Reborn/AllianceRaids/%original_file_name%
   - source: src/Resources/Localization/Duty/en/A Realm Reborn/Dungeons/
-    translation: A Realm Reborn/Dungeons/%original_file_name%
+    translation: src/Resources/Localization/Duty/%two_letters_code%/A Realm Reborn/Dungeons/%original_file_name%
   - source: src/Resources/Localization/Duty/en/A Realm Reborn/Trials
-    translation: A Realm Reborn/Trials/%original_file_name%
+    translation: src/Resources/Localization/Duty/%two_letters_code%/A Realm Reborn/Trials/%original_file_name%
+  - source: /src/Resources/Localization/Duty/en/Heavensward/AllianceRaids
+    translation: /src/Resources/Localization/Duty/%two_letters_code%/Heavensward/AllianceRaids/%original_file_name%
