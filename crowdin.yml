@@ -8,3 +8,5 @@ files:
     translation: Duty/A Realm Reborn/AllianceRaids/%original_file_name%
   - source: src/Resources/Localization/Duty/en/A Realm Reborn/Dungeons/
     translation: A Realm Reborn/Dungeons/%original_file_name%
+  - source: src/Resources/Localization/Duty/en/A Realm Reborn/Trials
+    translation: A Realm Reborn/Trials/%original_file_name%
