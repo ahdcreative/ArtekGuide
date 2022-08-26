@@ -1,0 +1,12 @@
+{
+  "Author": "DarkArtek",
+  "Name": "ArtekGuide",
+  "InternalName": "ArtekGuide",
+  "Punchline": "Il migliore strumento per tutti i vostri duties in game. Ottimo per sprout e roulette!",
+  "Description": "Guide testuali con meccaniche per ogni content. Dungeon, Alliance Raid etc\n\nNew: Apre la guida corrispondente appena si entra in dungeon\nI vari boss non avranno più segreti grazie alla guida alle meccaniche!\nProtezione Anti Spoiler :)",
+  "Tags": ["Roulette", "Guide", "Dungeon"],
+  "AssemblyVersion": "1.1.0.6",
+  "ImageUrls": [],
+  "ApplicableVersion": "any", 
+  "DalamudApiLevel": 7
+}
