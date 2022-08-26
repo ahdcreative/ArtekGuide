@@ -10,21 +10,21 @@
     "Bosses": [
         {
             "Name": "Titan",
-            "Strategy": "Titan will periodically cause raidwide damage throughout the fight. \n\nAt 75%% HP Titan will jump and spawn a red ring on the outside of the arena players must stand just outside the ring to avoid taking heavy damage and falling off the platform. After this Titan will start casting Landslide. \n\nAt 50%% HP Titan will do his jump move once more, After he comes back down he will go invulnerable and the players will need to attack his heart. \n\nAfter this titan will start to cast Weight of the land and Granite Goal until he dies.",
+            "Strategy": "Titan provocherà periodicamente danni ad ampio raggio durante il combattimento.\n\nAl 75% di HP Titan salterà generando un anello rosso sulla parte esterna dell'arena, i giocatori devono stare lontani dall'anello per evitare di prendere danno e cadere dalla piattaforma. Dopo questo, Titan comincia il cast di Landslide.\n\nAl 50% di HP Titan salterà di nuovo. Quando torna giù diventerà invulnerabile e i giocatori dovranno attaccare il suo cuore.\n\nDopo di che, Titan comincerà il cast di Weight of the Land e di Granite Gaol finché non muore.",
             "KeyMechanics": [
                 {
                     "Name": "Landslide",
-                    "Description": "A line AOE that will knock anyone caught in it backwards off the arena.",
+                    "Description": "Una AOE a linea che spinge via chiunque sia in mezzo fuori dall'arena.",
                     "Type": 2
                 },
                 {
                     "Name": "Granite Goal",
-                    "Description": "Targets one random player and traps them, the other players must attack the goal to free the trapped player.",
+                    "Description": "Mira un giocatore a caso e lo intrappola, gli altri giocatori devono attaccarlo per liberare il giocatore intrappolato.",
                     "Type": 6
                 },
                 {
                     "Name": "Weight of the Land",
-                    "Description": "Spawns several AOEs arround Titan.",
+                    "Description": "Genera diverse AOE intorno a Titan.",
                     "Type": 2
                 }
             ]
