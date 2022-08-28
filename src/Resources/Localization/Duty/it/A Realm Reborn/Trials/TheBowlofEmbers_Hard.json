@@ -9,61 +9,61 @@
     "TerritoryID": 292,
     "Bosses": [
         {
-            "Name": "Ifrit (Phase 1)",
-            "Strategy": "Non-tank players should not stand in front of Ifrit due to his cleave attacks.",
+            "Name": "Ifrit (Fase 1)",
+            "Strategy": "I giocatori non-tank non dovranno stare di fronte a Ifrit a causa dei suoi fendenti.",
             "KeyMechanics": [
                 {
                     "Name": "Incinerate",
-                    "Description": "Frontal breath attack",
+                    "Description": "Attacco con respiro frontale",
                     "Type": 9
                 },
                 {
                     "Name": "Eruption",
-                    "Description": "Targeted radial AoE.",
+                    "Description": "AOE radiale mirata.",
                     "Type": 2
                 },
                 {
                     "Name": "Vulcan Burst",
-                    "Description": "Instant nearby attack with knockback",
+                    "Description": "Attacco immediato che respinde chi nelle vicinanze",
                     "Type": 2
                 },
                 {
                     "Name": "Crimson Cyclone",
-                    "Description": "Stands in the corner of the boss room before dashing forward",
+                    "Description": "Sta nell'angolo della stanza del boss prima di scattare in avanti",
                     "Type": 2
                 }
             ]
         },
         {
-            "Name": "Ifrit (Phase 2)",
-            "Strategy": "During phase 2, Ifrit will gain two new abilities: Sear and Radiant Plume. Plumes in this phase are outer plumes then inner plumes. Followed by Eruption then Cyclone.",
+            "Name": "Ifrit (Fase 2)",
+            "Strategy": "Durante la fase 2, Ifrit otterrà due nuove abilità: Sear e Radiant Plume. Le Plume in questa fase sono prima esterne e poi interne, seguite da Eruption e poi Cyclone.",
             "KeyMechanics": [
                 {
                     "Name": "Sear",
-                    "Description": "Instance nearby attack",
+                    "Description": "Attacco vicino a istanza",
                     "Type": 2
                 },
                 {
                     "Name": "Radiant Plume",
-                    "Description": "Places glowing red circles on ground, exploding within a few seconds.",
+                    "Description": "Posiziona cerchi rossi iridescenti sul terreno, che esplodono in pochi secondi.",
                     "Type": 2
                 }
             ]
         },
         {
-            "Name": "Ifrit (Phase 3)",
-            "Strategy": "At 50%% HP, ifrit will summon 4 nails. If any nails remain when Ifrit casts Hellfire, it will kill all players.",
+            "Name": "Ifrit (Fase 3)",
+            "Strategy": "Al 50% di HP, Ifrit evoca 4 Nail. Se rimangono delle Nail quando Ifrit lancia Hellfire, ucciderà tutti i giocatori.",
             "KeyMechanics": [
                 {
                     "Name": "Hellfire",
-                    "Description": "Massive raid-wide attack, killing players if any Nails remain.",
+                    "Description": "Attacco massiccio su tutto il raid, uccidendo i giocatori se sono rimaste delle Nail.",
                     "Type": 4
                 }
             ]
         },
         {
-            "Name": "Ifrit (Phase 4)",
-            "Strategy": "After Hellfire has been cast, Ifrit enters phase 4 where they have all the abilities from phase 2 excluding Hellfire.\n\nThe order of attacks in this phase:\n- Outer Radiant Plumes\n- Inner Radiant Plumes\n- Eruption\n- Zone-wide Radiant plumes\n- Dashes (Left always dashes first)"
+            "Name": "Ifrit (Fase 4)",
+            "Strategy": "Dopo aver lanciato Hellfire, Ifrit entra nella fase 4 dove ha tutte le abilità della fase 2 tranne Hellfire.\n\nL'ordine degli attacchi in questa fase:\n- Radiant Plumes esterne\n- Radiant Plumes interne\n- Eruption\n- Radiant Plumes a zona\n- Scatti (la sinistra parte sempre per prima)"
         }
     ]
 }
