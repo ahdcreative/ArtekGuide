@@ -2,7 +2,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <Version>1.4.0.0</Version>
-    <PackageProjectUrl>https://github.com/BitsOfAByte/Dalamud-KikoNotes</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/DarkArtek/ArtekGuide</PackageProjectUrl>
     <RootNamespace>ArtekGuide</RootNamespace>
     <AssemblyName>ArtekGuide</AssemblyName>
   </PropertyGroup>
