@@ -50,7 +50,7 @@
         },
         {
             "Name": "Rhalgr's Emissary",
-            "Strategy": "Rhalgr's Emissary is a simple miniboss with a small amount of AoE type mechanics.",
+            "Strategy": "Rhalgr's Emissary è un semplice miniboss con qualche meccanica AoE.",
             "KeyMechanics": [
                 {
                     "Name": "Destructive Strike",
@@ -59,43 +59,43 @@
                 },
                 {
                     "Name": "Bolts from the Blue",
-                    "Description": "Moderate raidwide damage.",
+                    "Description": "Danno raidwide moderato.",
                     "Type": 4
                 },
                 {
                     "Name": "Destructive Static",
-                    "Description": "Half room AoE on the side the miniboss is holding his axe.",
+                    "Description": "AoE che copre mezza areana dal lato dove il miniboss sta tenendo la sua ascia.",
                     "Type": 2
                 },
                 {
                     "Name": "Lightning Bolt",
-                    "Description": "Two moving bolts of lightning will draw a shape on the floor. \nDon't stand inside the encircled area.",
+                    "Description": "Due saette disegneranno una forma sul pavimento.\nNon state dentro l'area disegnata.",
                     "Type": 2
                 },
                 {
                     "Name": "Boltloop",
-                    "Description": "Two circle AoEs will appear on opposite sides of the arena, followed by an expanding donut AoE.",
+                    "Description": "Due AoEs circolari appariranno sui lati opposti dell'arena, seguito da una AoE a ciambella che si espande.",
                     "Type": 2
                 }
             ]
         },
         {
             "Name": "Rhalgr",
-            "Strategy": "The main themes of this fight are paying attention to the rings floating around the boss, which are portals for his punches, as well as avoiding to get knocked off the platform.",
+            "Strategy": "I temi principali di questa lotta sono prestare attenzione agli anelli galleggianti intorno al boss, che sono effettivamente portali per i suoi pugni. La seconda cosa è evitare di ottenere scaraventati fuori dall'arena.",
             "KeyMechanics": [
                 {
                     "Name": "Lightning Reign",
-                    "Description": "Unavoidable raidwide damage.",
+                    "Description": "Danno AoE inevitabile.",
                     "Type": 4
                 },
                 {
                     "Name": "Advent of the Eighth",
-                    "Description": "Two of the bosses rings will turn into giant portals, connected to the other two rings that remain with him. He will then punch into one of them, resulting in a gigantic fist coming out of the corresponding portal.\nThe portal from which his fist spawns can be predicted by which ring he punches and a particle effect traveling from the small ring to the large portal.",
+                    "Description": "Due degli anelli si trasformerannp in portali, connessi ad altri due che saranno ancora attorno al boss.\nIl boss tirerà un pugno dentro ad uno degli anelli e dal portale corripondente emergerà il pugno del boss.",
                     "Type": 2
                 },
                 {
                     "Name": "Broken World",
-                    "Description": "Proximity based AoE damage in the form of a meteor. \n\nIf this attack is used at the same time as Advent of the Eighth, watch out from which portal his fist will come out. If the portal is on the same side as the proximity AoE, the safe zone is where the proximity AoE originally appeared.",
+                    "Description": "Danno AoE di prossimità sotto forma di meteore. \n\nSe questo attacco viene usato contemporaneamente a Advent of the Eighth, fate particolare attenzione al portale da quale proviene il suo pugno. Se è dalla stessa parte della AoE, la safe zone sarà doveè caduta la meteora.",
                     "Type": 2
                 },
                 {
