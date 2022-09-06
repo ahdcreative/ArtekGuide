@@ -80,21 +80,4 @@
   <ItemGroup>
     <PackageReference Include="DalamudPackager" Version="2.1.8" />
   </ItemGroup>
-  <ProjectExtension>
-    <DalamudPlugin>
-      <ApiLevel>7</ApiLevel>
-      <Author>DarkArtek</Author>
-      <Name>ArtekGuide</name>
-      <Punchline>Il migliore strumento per tutti i vostri duty. Ottimo per sprout e roulette!</Punchline>
-      <Description>Guide testuali con meccaniche per ogni content. Dungeon, Alliance Raid etc\n\nNew: Apre la guida corrispondente appena si entra in dungeon\nI vari boss non avranno più segreti grazie alla guida alle meccaniche!\nProtezione Anti Spoiler :)</Description>
-      <IconUrl></IconUrl>
-      <Tags>
-        <Tag>Roulette</Tag>
-        <Tag>Dungeons</Tag>
-        <Tag>FFXIVITA</Tag>
-        <Tag>Guide</Tag>
-      </Tags>
-      <Hidden>False</Hidden>
-    </DalamudPlugin>
-  </ProjectExtension>
 </Project>
