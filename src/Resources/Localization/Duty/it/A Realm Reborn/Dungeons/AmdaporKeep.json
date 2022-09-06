@@ -10,7 +10,7 @@
     "Bosses": [
         {
             "Name": "Psycheflayer",
-            "Strategy": "When you first walk into the boss arena an only an enemy called the Lunatic Priest will be here once this enemy reaches 50%% HP he will summon the Pyscheflayer. Players should focus on killing the Lunatic Priest before dealing with the Psycheflayer as the Lunatic Priest will throw out high damage AOEs. \n\nThroughout the fight Psycheflayer will spawn adds that cast AOEs players should make sure to kill them as soon as they spawn.",
+            "Strategy": "Quando entri per la prima volta nell'arena del boss un solo nemico chiamato Sacerdote Lunatico sarà qui una volta che questo nemico raggiungerà i 50%% HP convocerà il Flayer Pschee. I giocatori dovrebbero concentrarsi sull'uccisione del Sacerdote Lunatico prima di trattare con lo Psycheflayer come il Sacerdote Lunatico butterà fuori alto danno AOE. \n\nDurante tutta la lotta Psycheflayer spawn aggiunge che i giocatori di cast AOE dovrebbero assicurarsi di ucciderli non appena generano.",
             "KeyMechanics": [
                 {
                     "Name": "Water",
