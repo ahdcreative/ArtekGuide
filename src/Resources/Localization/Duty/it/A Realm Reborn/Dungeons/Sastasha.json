@@ -10,22 +10,22 @@
     "Bosses": [
         {
             "Name": "Chopper",
-            "Strategy": "Avoid being hit by \"Charged Whisker\" which is an AoE that inflicts paralysis.",
+            "Strategy": "Evitare di essere colpiti da \"Charged Whisker\" che è un AoE che infligge paralisi.",
             "KeyMechanics": [
                 {
                     "Name": "Charged Whisker",
-                    "Description": "Inflicts paralysis to all players hit.",
+                    "Description": "Infligge paralisi a tutti i giocatori colpiti.",
                     "Type": 2
                 }
             ]
         },
         {
             "Name": "Captain Madison",
-            "Strategy": "You must defeat Captain Madison twice. In the first encounter, kill adds first and then focus on the boss until they run away. In the second encounter they will summon guard dogs at 50% HP, kill these and attack until they flees."
+            "Strategy": "È necessario sconfiggere il capitano Madison due volte. Nel primo scontro uccidere prima le varie add per poi concentrarsi su di lui fino a quando tutti non scappano. Nel secondo scontro evocherà dei cani da guardia quando il boss sta al 50% di HP. Uccideteli e attaccate fino a quando il boss non fuggirà nuovamente."
         },
         {
             "Name": "Denn the Orcatoothed",
-            "Strategy": "During the boss fight, adds will spawn from the bubbling water, interact with the grate when it's bubbling to prevent spawning. These can also be safely ignored if enough damage is being dealt to the boss."
+            "Strategy": "Durante il fight, ci saranno delle add che spunteranno fuori dai tombini in cui l'acqua bolle. Interagite con il tombino per prevenire la fuoriuscita dell'add. Questa meccanica può essere ignorata totalmente se ci si concentra sul fare danno al boss."
         }
     ]
 }
