@@ -16,7 +16,7 @@ sealed internal class PStrings
     /// <summary>
     ///     The repository to linked to this plugin.
     /// </summary>
-    internal static readonly string repoUrl = "https://github.com/BitsOfAByte/ArtekGuide/";
+    internal static readonly string repoUrl = "https://github.com/AHDCreative/ArtekGuide/";
 
     /// <summary>
     ///     The production branch of the repository.
@@ -31,7 +31,7 @@ sealed internal class PStrings
     /// <summary>
     ///     The support button URL.
     /// </summary>
-    internal static readonly string supportButtonUrl = "https://github.com/sponsors/BitsOfAByte";
+    internal static readonly string supportButtonUrl = "https://github.com/sponsors/DarkArtek";
 
     /// <summary>
     ///     The path to the plugin's resources folder with trailing slashes, relative to the plugin assembly location with trailing slashes.
@@ -112,7 +112,7 @@ sealed internal class TStrings
 
     // Duty Info
     internal static string DutyInfoTitle => String.Format(Loc.Localize("DutyInfo.Title", "{0} - Duty Info"), PStrings.pluginName);
-    internal static string DutyInfoNoneSelected => Loc.Localize("DutyInfo.NoDuty", "No duty selected, use /kikolist to see all available duties.");
+    internal static string DutyInfoNoneSelected => Loc.Localize("DutyInfo.NoDuty", "No duty selected, use /arteklist to see all available duties.");
     internal static string DutyInfoNotUnlocked => Loc.Localize("DutyInfo.NotUnlocked", "You cannot view the guide for this duty as you have not unlocked it yet.");
 
 
