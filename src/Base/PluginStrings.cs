@@ -11,7 +11,7 @@ sealed internal class PStrings
     /// <summary> 
     ///    This is the name that will be shown in all UI elements, does not change InternalName.
     /// </summary>
-    internal static readonly string pluginName = "Kiko Guide";
+    internal static readonly string pluginName = "Artek Guide";
 
     /// <summary>
     ///     The repository to linked to this plugin.
