@@ -1,4 +1,4 @@
-FROM ghcr.io/ahdcreative/xivita-daladocker:latest@sha256:dae2af486ef2de41160b1d7a0addceb19cbf042b4237d40a7ef361bafbb15eed
+FROM ghcr.io/ahdcreative/xivita-daladocker:latest@sha256:8f2b8edfd2639cc9b53c944161c8c58f50a30e3cdd8ab0ec81f052799d47b92c
 
 # Optout of telemtry.
 ENV DOTNET_CLI_TELEMETRY_OPTOUT=1
